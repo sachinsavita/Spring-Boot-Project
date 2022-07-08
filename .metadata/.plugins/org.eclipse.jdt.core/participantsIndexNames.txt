@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3087453717.index
+\LocationWeb\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\248396689.index
+\SpringBootMVC\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2894835725.index
+\LocationWeb\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\772854836.index
+\SpringBootMVC\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\480430497.index
+\UdemySelfStudy\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3022291698.index
+\LocationWeb\src\main\java
+G:\Java-WorkSpaces\Udemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2345252674.index
+\UdemySelfStudy\src\main\java
